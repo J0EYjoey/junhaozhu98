@@ -11,11 +11,13 @@ author_profile: true
 
 
 <!-- Example for grouping publications by category -->
+<!-- Example for grouping publications by category -->
 {% assign categories = "Preprint, Accepted/Published" | split: ", " %}
 {% for category in categories %}
   <h2>{{ category }}</h2>
   <ul>
-    {% for post in site.publications %}
+    {% assign sorted_posts = site.publications | sort: "date" | reverse %}
+    {% for post in sorted_posts %}
       {% if post.category == category %}
         <li>
           {{ post.authors }}. <strong>"{{ post.title }}"</strong>. 
@@ -33,5 +35,6 @@ author_profile: true
     {% endfor %}
   </ul>
 {% endfor %}
+
 
 (* : equal contribution)
