@@ -7,6 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<h1>Teaching Experience</h1>
+
+<!-- Group by Category -->
+{% assign categories = "Instructor, Teaching Assistant" | split: ", " %}
+{% for category in categories %}
+  <h2>As {{ category }}</h2>
+  <ul>
+    {% for post in site.teaching reversed %}
+      {% if post.category == category %}
+        <li>
+          <strong>{{ post.title }}</strong> ({{ post.semester }})<br>
+          {{ post.role }} at {{ post.institution }}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 {% endfor %}
