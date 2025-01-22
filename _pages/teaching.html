@@ -9,15 +9,14 @@ author_profile: true
 
 
 <!-- Group by Category -->
-{% assign categories = "Teaching Assistant" | split: ", " %}
+{% assign categories = "Teaching Assistant at University of Toronto" | split: ", " %}
 {% for category in categories %}
   <h2>As {{ category }}</h2>
   <ul>
     {% for post in site.teaching reversed %}
       {% if post.category == category %}
         <li>
-          <strong>{{ post.title }}</strong> ({{ post.semester }})<br>
-          {{ post.role }} at {{ post.institution }}
+          <strong>{{ post.title }}</strong> ({{ post.semester }})
         </li>
       {% endif %}
     {% endfor %}
