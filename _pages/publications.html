@@ -27,6 +27,7 @@ author_profile: true
           {% if post.githuburl %}
             <a href="{{ post.githuburl }}" target="_blank">[GitHub]</a>
           {% endif %}
+          <p>{{ post.content | markdownify }}</p>
         </li>
       {% endif %}
     {% endfor %}
