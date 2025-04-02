@@ -8,9 +8,10 @@ author_profile: true
 
 
 
-<!-- Group by Category -->
 
-{% assign categories = "Teaching Assistant at University of Toronto, Instructor at University of Toronto" | split: ", " %}
+
+<!-- Group by Category -->
+{% assign categories = "Instructor at the University of Toronto, Teaching Assistant at the University of Toronto" | split: ", " %}
 {% for category in categories %}
   <h2>As {{ category }}</h2>
   <ul>
@@ -19,10 +20,11 @@ author_profile: true
         <li>
           <strong>
             {{ post.title | markdownify }}
-          </strong> ({{ post.semester }})
+          </strong> - <span>{{ post.semester }}</span>
         </li>
       {% endif %}
     {% endfor %}
   </ul>
 {% endfor %}
+
 
