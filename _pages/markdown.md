@@ -1,6 +1,7 @@
 ---
 permalink: /markdown/
 author_profile: true
+title: "Miscellaneous"
 redirect_from: 
   - /md/
   - /markdown.html
