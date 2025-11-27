@@ -9,13 +9,16 @@ redirect_from:
 
 ## Honors and Awards
 
+* Donald A.S. Fraser Doctoral Award, 2025 
 * ASA Nonparametric Statistics Section Student Paper Winner, 2025
 * Teaching Assistant Award, Department of Statistical Sciences, University of Toronto, 2024
-* IMS Hannan Graduate Student Travel Award, 2024,
+* IMS Hannan Graduate Student Travel Award, 2024
 * ENAR Distinguished Student Paper Awards, 2024
+* School of Graduate Studies (SGS) Conference Grant, University of Toronto, 2024
 * CANSSI Multidisciplinary Doctoral Trainee, 2020-2025
 * National Scholarship (Top 2%), 2018, 2019
 * Outstanding Undergraduate Student at Sun Yat-Sen University, 2017-2020
+
 
 ## Others
 
