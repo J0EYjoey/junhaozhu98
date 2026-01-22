@@ -2,7 +2,7 @@
 title: "LLOT: application of Laplacian Linear Optimal Transport in spatial transcriptome reconstruction"
 authors: "Junhao Zhu, Kevin Zhang, Dehan Kong, Zhaolei Zhang"
 venue: "Bioemtrics,  to appear"
-category: "Accpeted"
+category: "Accepted/Published"
 date: 2025-01-01
 ---
 
