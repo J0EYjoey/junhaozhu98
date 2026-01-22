@@ -3,5 +3,5 @@ title: "Nonparametric statistical inference via metric distribution function in 
 authors: "Xueqin Wang*, Jin Zhu*, Wenliang Pan*, Junhao Zhu*, Heping Zhang*"
 venue: "Journal of the American Statistical Association"
 category: "Accepted/Published"
-date: 2023-01-01
+date: 2024-01-01
 ---

@@ -3,7 +3,7 @@ title: "LLOT: application of Laplacian Linear Optimal Transport in spatial trans
 authors: "Junhao Zhu, Kevin Zhang, Dehan Kong, Zhaolei Zhang"
 venue: "Bioemtrics,  to appear"
 category: "Accepted/Published"
-date: 2025-01-01
+date: 2026-01-01
 ---
 
 *[(ENAR Distinguished Student Paper Award)](https://www.enar.org/meetings/StudentPaperAwards/)*
