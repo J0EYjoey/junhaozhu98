@@ -22,6 +22,6 @@ redirect_from:
 
 ## Others
 
-* I play League of Legends ~~well~~. My rank is Emerald, which statistically puts me in the top tier — or at least that’s what the rating system developed by the [Biometrika paper](https://www.jstor.org/stable/2332816) and the [AoS paper](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-34/issue-1/Selection-of-the-Best-Treatment-in-a-Paired-Comparison-Experiment/10.1214/aoms/1177704243.full) say.
+* I play League of Legends ~~well~~. My rank is Diamond, which statistically puts me in the top 4% tier — or at least that’s what the rating system developed by the [Biometrika paper](https://www.jstor.org/stable/2332816) and the [AoS paper](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-34/issue-1/Selection-of-the-Best-Treatment-in-a-Paired-Comparison-Experiment/10.1214/aoms/1177704243.full) say.
 
 * I have a cat called 'Peanut'.
