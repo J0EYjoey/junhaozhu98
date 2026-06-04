@@ -22,6 +22,7 @@ redirect_from:
 
 ## Talks and Presentations
 
+* *NESS 2026*, Storrs — May 2026
 * *JSM 2025*, Nashville — August 2025
 * *ICSDS 2024*, Nice — December 2024
 * *ENAR Spring Meeting* — April 2024
