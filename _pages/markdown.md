@@ -20,6 +20,24 @@ redirect_from:
 * Outstanding Undergraduate Student at Sun Yat-Sen University, 2017-2020
 
 
+## Talks and Presentations
+
+* *JSM 2025*, Nashville — August 2025
+* *ICSDS 2024*, Nice — December 2024
+* *ENAR Spring Meeting* — April 2024
+* *The Fifth ICSA-Canada Chapter Symposium* — June 2022
+* *CANSSI Ontario Research Day* — September 2022
+
+
+## Professional Service
+
+Reviewers: *Journal of the American Statistical Association* (2), *PNAS* (1), *Canadian Journal of Statistics* (1), *Journal of the Royal Statistical Society, Series C* (1), *Bioinformatics* (1), *ISMB/ECCB* (1).
+
+* Chair of the *Statistical Learning in Large-Scale Medical Imaging Studies* session at the *ICSA-Canada Chapter Symposium*, 2022.
+* Chair of the *Signal and Noise in Imaging Datasets* session at the *Joint Statistical Meeting (JSM)*, 2023.
+* Local organizing committee, *IMS New Researchers Conference*, 2023.
+
+
 ## Others
 
 * I play League of Legends ~~well~~. My rank is Diamond, which statistically puts me in the top 4% tier — or at least that’s what the rating system developed by the [Biometrika paper](https://www.jstor.org/stable/2332816) and the [AoS paper](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-34/issue-1/Selection-of-the-Best-Treatment-in-a-Paired-Comparison-Experiment/10.1214/aoms/1177704243.full) say.
