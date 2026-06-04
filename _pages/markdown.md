@@ -31,8 +31,7 @@ redirect_from:
 
 ## Professional Service
 
-Reviewers: *Journal of the American Statistical Association* (2), *PNAS* (1), *Canadian Journal of Statistics* (1), *Journal of the Royal Statistical Society, Series C* (1), *Bioinformatics* (1), *ISMB/ECCB* (1).
-
+* Reviewer for: *Journal of the American Statistical Association*, *PNAS*, *Canadian Journal of Statistics*, *Journal of the Royal Statistical Society, Series C*, *Bioinformatics*, *ISMB/ECCB*.
 * Chair of the *Statistical Learning in Large-Scale Medical Imaging Studies* session at the *ICSA-Canada Chapter Symposium*, 2022.
 * Chair of the *Signal and Noise in Imaging Datasets* session at the *Joint Statistical Meeting (JSM)*, 2023.
 * Local organizing committee, *IMS New Researchers Conference*, 2023.
