@@ -22,8 +22,8 @@ redirect_from:
 
 ## External Grants and Research Support
 
-* Anthropic (Claude) AI for Science Program Support (Amount: \$10,000) — 2026
-* Biswas Family Grant (Amount: \$25,000) — 2026
+* Anthropic (Claude) AI for Science Program Support (Amount: \$10,000), 2026
+* Biswas Family Grant (Amount: \$25,000), 2026
 
 
 ## Talks and Presentations
@@ -38,7 +38,7 @@ redirect_from:
 
 ## Professional Service
 
-* Reviewer for: *Journal of the American Statistical Association*, *PNAS*, *Canadian Journal of Statistics*, *Journal of the Royal Statistical Society, Series C*, *Bioinformatics*, *ISMB/ECCB*.
+* Reviewer for: *Journal of the American Statistical Association*, *PNAS*, *Canadian Journal of Statistics*, *Journal of the Royal Statistical Society Series C*, *Bioinformatics*, *ISMB/ECCB*.
 * Chair of the *Statistical Learning in Large-Scale Medical Imaging Studies* session at the *ICSA-Canada Chapter Symposium*, 2022.
 * Chair of the *Signal and Noise in Imaging Datasets* session at the *Joint Statistical Meeting (JSM)*, 2023.
 * Local organizing committee, *IMS New Researchers Conference*, 2023.
