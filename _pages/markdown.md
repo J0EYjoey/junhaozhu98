@@ -20,6 +20,12 @@ redirect_from:
 * Outstanding Undergraduate Student at Sun Yat-Sen University, 2017-2020
 
 
+## External Grants and Research Support
+
+* Anthropic (Claude) AI for Science Program Support (Amount: \$10,000) — 2026
+* Biswas Family Grant (Amount: \$25,000) — 2026
+
+
 ## Talks and Presentations
 
 * *NESS 2026*, Storrs — May 2026
