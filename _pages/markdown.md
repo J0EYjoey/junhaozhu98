@@ -22,8 +22,9 @@ redirect_from:
 
 ## External Grants and Research Support
 
-* Anthropic (Claude) AI for Science Program Support (Amount: \$10,000), 2026
 * Biswas Family Grant (Amount: \$25,000), 2026
+* Anthropic (Claude) AI for Science Program Support (Amount: \$10,000), 2026
+* Lambda's Research Grant Program (Amount: \$2,000), 2026
 
 
 ## Talks and Presentations
