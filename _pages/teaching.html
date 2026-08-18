@@ -11,7 +11,8 @@ author_profile: true
 
 
 <!-- Group by Category -->
-{% assign categories = "Instructor at the University of Toronto, Teaching Assistant at the University of Toronto, Teaching Assistant at Harvard University" | split: ", " %}
+{% comment %} To show Harvard teaching again, add back: , Teaching Assistant at Harvard University {% endcomment %}
+{% assign categories = "Instructor at the University of Toronto, Teaching Assistant at the University of Toronto" | split: ", " %}
 {% for category in categories %}
   <h2>As {{ category }}</h2>
   <ul>
