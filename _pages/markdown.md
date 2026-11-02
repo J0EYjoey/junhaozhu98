@@ -42,7 +42,7 @@ redirect_from:
 
 ## Professional Service
 
-* Reviewer for: *Journal of the American Statistical Association*, *PNAS*, *Canadian Journal of Statistics*, *Journal of the Royal Statistical Society Series C*, *Bioinformatics*, *ISMB/ECCB*.
+* Reviewer for: *Journal of the American Statistical Association*, *IEEE Transactions on Information Theory*, *PNAS*, *Canadian Journal of Statistics*, *Journal of the Royal Statistical Society Series C*, *Bioinformatics*, *ISMB/ECCB*.
 * Head volunteer, *STAI-X 2026* conference.
 * Chair of the *Signal and Noise in Imaging Datasets* session at the *Joint Statistical Meeting (JSM)*, 2023.
 * Local organizing committee, *IMS New Researchers Conference*, 2023.
