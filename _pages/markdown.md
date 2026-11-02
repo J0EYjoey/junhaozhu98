@@ -32,7 +32,7 @@ redirect_from:
 
 ## Talks and Presentations
 
-* *STAI-X Conference*, Boston — 2026
+* *STAI-X Conference*, Boston — August 2026
 * *NESS 2026*, Storrs — May 2026
 * *JSM 2025*, Nashville — August 2025
 * *ICSDS 2024*, Nice — December 2024
